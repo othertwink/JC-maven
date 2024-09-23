@@ -1,5 +1,5 @@
 
-public class Utils {
+public class GeometryUtils {
 
     // Преобразование из квадратных метров в квадратные сантиметры
     public static double squareMetersToSquareCentimeters(double areaInSquareMeters) {
