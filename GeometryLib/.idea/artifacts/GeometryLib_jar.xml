@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeometryLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeometryLib_jar</output-path>
+    <root id="archive" name="GeometryLib.jar">
+      <element id="module-output" name="GeometryLib" />
+    </root>
+  </artifact>
+</component>
